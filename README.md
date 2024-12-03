@@ -15,8 +15,11 @@ Janna Rane Rosendo - 202111290@fit.edu.ph - FEU Institute of Technology
 
 ## Functionality
 -The smart contract provides two main functions:
+  
   -Buy Tokens: Simulates earning JRN Tokens by buying menu items.
+  
   -Redeem Tokens: Allows users to spend JRN Tokens on redeemable rewards.
+
 -All token-related data, such as balances and transactions, are visible on the frontend application.
 
 ## License
