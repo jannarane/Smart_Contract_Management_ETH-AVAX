@@ -1,5 +1,6 @@
 # Smart_Contract_Management_ETH-AVAX [JRANE'S CANTEEN]
 This is a blockchain-based smart contract and application for managing a reward system using custom tokens called JRN Tokens.
+
 Janna Rane Rosendo - 202111290@fit.edu.ph - FEU Institute of Technology
 
 ## Contract Details
