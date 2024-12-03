@@ -14,13 +14,13 @@ Janna Rane Rosendo - 202111290@fit.edu.ph - FEU Institute of Technology
 - **Event Logging**: All actions (buying and redeeming tokens) are logged for transparency.
 
 ## Functionality
--The smart contract provides two main functions:
+- The smart contract provides two main functions:
   
-  -Buy Tokens: Simulates earning JRN Tokens by buying menu items.
+  - Buy Tokens: Simulates earning JRN Tokens by buying menu items.
   
-  -Redeem Tokens: Allows users to spend JRN Tokens on redeemable rewards.
+  - Redeem Tokens: Allows users to spend JRN Tokens on redeemable rewards.
 
--All token-related data, such as balances and transactions, are visible on the frontend application.
+- All token-related data, such as balances and transactions, are visible on the frontend application.
 
 ## License
 This contract is open-source and available under the MIT License.
